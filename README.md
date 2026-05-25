@@ -1,7 +1,7 @@
 # 🧑🏽‍💻 Rhikelmy
 **`Desenvolvedor JAVA`**
 ---
-Me me chamo Rhikelmy, tenho 18 anos e sou do Ceará. Atualmente curso Engenharia de Software na UNOPAR. Busco me tornar um Backend Developer Java, focado no desenvolvimento de projetos para adquirir experiência prática. Estou sempre buscando aprender mais sobre tecnologia, programação e boas práticas de desenvolvimento.
+Me chamo Rhikelmy, tenho 18 anos e sou do Ceará. Atualmente curso Engenharia de Software na UNOPAR. Busco me tornar um Backend Developer Java, focado no desenvolvimento de projetos para adquirir experiência prática. Estou sempre buscando aprender mais sobre tecnologia, programação e boas práticas de desenvolvimento.
 
 ---
 
