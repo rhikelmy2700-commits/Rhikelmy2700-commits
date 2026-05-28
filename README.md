@@ -6,11 +6,8 @@ Me chamo Rhikelmy, tenho 18 anos e sou do Ceará. Atualmente curso Engenharia de
 ---
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/vidalrhikelmy/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rhikelmy)
-
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:rhikelmy2700@gmail.com)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 
 ---
